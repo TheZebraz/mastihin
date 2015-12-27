@@ -16,10 +16,9 @@
         <activity
             android:name=".LoginActivity"
             android:label="@string/app_name" >
-
         </activity>
         <activity
-            android:name=".TracksActivity"
+            android:name=".MainActivity"
             android:label="@string/title_activity_tracks"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
@@ -27,6 +26,11 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".TracksActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" >
         </activity>
     </application>
 

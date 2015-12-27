@@ -7,22 +7,34 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
         <item name="android:background">@color/white</item>
     </style>
+
     <style name="ViewPager">
         <item name="android:background">@color/white</item>
     </style>
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
     <style name="CodeFont" parent="@android:style/TextAppearance.Medium"/>
 
     <style name="toolbarStyle">
         <item name="windowActionBar">false</item>
     </style>
 
+    <style name="PagerTabStripText">
+        <item name="android:textSize">20dp</item>
+    </style>
+
+
+    <style name="ColoredButton" parent="Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/white</item>
+    </style>
 </resources>
