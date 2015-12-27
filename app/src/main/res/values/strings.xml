@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">mastihin</string>
+    
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_tracks">TracksActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="platie">Рассыпанная в тысячу мгновений\n
+Осколками мечт пустеет тьма\n
+Отточенная глубью сновидений\n
+Покорна всем погасшая зима\n
+\n
+Никак не встать - земли тоска\n
+Впиталась лень в души корень\n
+Она теперь весьма близка\n
+Теперь я жить уже не волен\n
+\n
+В груди пусто - печалей снег\n
+Сереет грязью весны часа\n
+Уже скоро прольётся смех\n
+Зима дрожит - почти угасла\n
+\n
+Мечты о небе кромсают лёд\n
+Одень платье мной любимое\n
+Нас ждёт на облака полёт\n
+Начни дышать, моя ранимая\n
+
+</string>
+</resources>
