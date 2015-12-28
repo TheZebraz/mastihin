@@ -1,4 +1,4 @@
-package evtukhov.mastihin;
+package evtukhov.mastihin.trash;
 
 import android.app.Dialog;
 import android.graphics.Typeface;
@@ -24,6 +24,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import evtukhov.mastihin.R;
 
 public class TracksActivity extends AppCompatActivity {
 
